@@ -1,7 +1,8 @@
-ADC CLI
-===
+*************
+ADC
+*************
 
-CLI Commands
----------
+Commands
+=============
 
 clicmdnitro -clicmd "sh responder policy" -execute
