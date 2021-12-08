@@ -1,7 +1,7 @@
 ADC CLI
 ===
 
-.. autosummary::
-   :toctree: generated
+Commands
+---------
 
 clicmdnitro -clicmd "sh responder policy" -execute

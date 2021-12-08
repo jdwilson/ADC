@@ -1,5 +1,5 @@
 Base Configs
 ===
 
-.. autosummary::
-   :toctree: generated
+confs
+---------

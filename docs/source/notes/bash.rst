@@ -1,8 +1,8 @@
 ADC Shell
 ===
 
-.. autosummary::
-   :toctree: generated
+Commands
+----------
 
 tcpdump -qns 0 -A -r nstrace1.pcap
 
