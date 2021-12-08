@@ -5,12 +5,12 @@ Citrix ADC Consulting Notes
    :maxdepth: 2
    :caption: Notes
 
-notes/cli.tst
-notes/bash.tst
+notes/cli
+notes/bash
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Configs
 
-confs/base.tst
+confs/base
