@@ -26,3 +26,4 @@ Citrix ADC Consulting Notes
    :hidden:
 
    other/sites
+   other/regex
