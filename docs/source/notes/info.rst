@@ -9,5 +9,5 @@ Scripts under /netscaler
 -------------
 
 .. csv-table::
-   :file: processes
+   :file: processes.csv
    :header-rows: 1
