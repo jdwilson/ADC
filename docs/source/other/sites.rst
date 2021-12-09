@@ -1,15 +1,14 @@
-*************
 Useful Websites
-*************
+################
 
 API 
-=============
+****
 
 `httpbin <https://httpbin.org>`_
 API endpoint to test client requests
 
 Networking 
-=============
+***********
 
 `BGP Toolkit <https://bgp.he.net/>`_
 Search for owners of networks
@@ -21,7 +20,7 @@ Various networking cheatsheets
 Service to return your public IP in various formats
 
 Web 
-=============
+****
 
 `Bad SSL <https://badssl.com/>`_
 Simulate browser behavior for all types of responses

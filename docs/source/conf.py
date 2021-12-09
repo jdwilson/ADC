@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'ADC Notes'
-copyright = '2021, JDW'
+copyright = '2021, Jacob Wilson'
 author = 'Jacob Wilson'
 
 release = '0.1'
