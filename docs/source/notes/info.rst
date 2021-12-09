@@ -5,9 +5,6 @@ ADC Info
 Appliance Internals
 =============
 
-Scripts under /netscaler
--------------
-
-.. csv-table::
+.. csv-table:: Scripts under /netscaler
    :file: processes.csv
    :header-rows: 1
