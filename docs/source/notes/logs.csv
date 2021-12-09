@@ -1,0 +1,28 @@
+﻿Logfile ,Location,Messages logged /Comments
+NetScaler logs,,
+ns.log,/var/log & /var/nslog,Messages from various sub-systems
+newnslog,/var/nslog,Performance records
+nsvpn.log,/var/log,Generated from audit logging framework for SSLVPN
+license.log,/var/log,FlexLM license server messages
+aslearn.log,/var/log,AppFW
+snmpd.log,/var/log,SNMP deamon logs
+Debug pipes (sockets),,
+pitboss.debug,/tmp,Pitboss messages - created only when pitboss takes 'action'
+auditlog.debug,/tmp,Debug messages for user land audit infrastructure (libaaa.a)
+aaad.debug,/tmp,Debug messages for authendication deamon (nsaaad)
+.nscli_pipe,/tmp,Debug messages for nscli
+.nsconf_pipe,/tmp,Debug messages for nsconf
+nsnetsvc_pipe,/tmp,Debug messages for nsnetsvc
+Debug logfiles,,
+auth.log,/var/log,Any authentication related information
+nsvpnd.log,/var/log,Debug messages for nsvpnd
+recovery.log,/flash/.recovery,Manufactoring process (flash creation)
+FreeBSD logs,,
+httpaccess.log,/var/log,Apache access logs
+httpderror.log,/var/log,Apache error logs 
+messages,/var/log,Console messages from the system
+savecore.log,/tmp,Log of 'savecore' utility
+ntpdate.log,/var/log,Network time protocol logs
+dmesg.boot,/var/nslog,Bootup messages
+dmesg.last,/var/nslog,Bootup messages
+dmesg.prev,/var/nslog,Bootup messages

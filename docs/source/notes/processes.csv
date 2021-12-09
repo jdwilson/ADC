@@ -1,19 +1,19 @@
-﻿Name,Purpose 
-icsearch.sh,Search details about the cached objects
-install.pl,"Installns component, supports build update"
-migrateAppfwImports.sh,Config migration support for AppFW
-migrate_ZebOS.sh,Config migration for ZebOS
-netscaler.sh ,Start and Stop Netscaler kernel
-nsdiskspace.sh,Used for monitoring/managing available disk space
-nslcdinit.sh,Starts the lcd daemon
-nslog.sh,"NS logging script, launches newnslog generation and also disk space management of /var partition"
-nssavecore.sh,Save the dump core
-nsstart.sh,Start the nsconfig
-nsstartpe.sh,Start the Netscaler kernel /PE
-nsstop.sh,Stops the Netscaler kernel
-nssync.sh,Start the sync daemon
-nstcpdump.sh,Start the traffic trace in pcap format
-nstrace.sh,Start the traffic trace in Netscaler format
-nsumon.sh,Start the scriptable monitoring daemon
-upgradeAppfwImports.sh,Config migration support for AppFW
-Showtechsupport.pl,Get the required files from the customer for debugging
+﻿Name,Location,Purpose 
+icsearch.sh,/netscaler,Search details about the cached objects
+install.pl,/netscaler,"Installns component, supports build update"
+migrateAppfwImports.sh,/netscaler,Config migration support for AppFW
+migrate_ZebOS.sh,/netscaler,Config migration for ZebOS
+netscaler.sh ,/netscaler,Start and Stop Netscaler kernel
+nsdiskspace.sh,/netscaler,Used for monitoring/managing available disk space
+nslcdinit.sh,/netscaler,Starts the lcd daemon
+nslog.sh,/netscaler,"NS logging script, launches newnslog generation and also disk space management of /var partition"
+nssavecore.sh,/netscaler,Save the dump core
+nsstart.sh,/netscaler,Start the nsconfig
+nsstartpe.sh,/netscaler,Start the Netscaler kernel /PE
+nsstop.sh,/netscaler,Stops the Netscaler kernel
+nssync.sh,/netscaler,Start the sync daemon
+nstcpdump.sh,/netscaler,Start the traffic trace in pcap format
+nstrace.sh,/netscaler,Start the traffic trace in Netscaler format
+nsumon.sh,/netscaler,Start the scriptable monitoring daemon
+upgradeAppfwImports.sh,/netscaler,Config migration support for AppFW
+Showtechsupport.pl,/netscaler,Get the required files from the customer for debugging
