@@ -1,0 +1,19 @@
+﻿Name,Purpose 
+icsearch.sh,Search details about the cached objects
+install.pl,"Installns component, supports build update"
+migrateAppfwImports.sh,Config migration support for AppFW
+migrate_ZebOS.sh,Config migration for ZebOS
+netscaler.sh ,Start and Stop Netscaler kernel
+nsdiskspace.sh,Used for monitoring/managing available disk space
+nslcdinit.sh,Starts the lcd daemon
+nslog.sh,"NS logging script, launches newnslog generation and also disk space management of /var partition"
+nssavecore.sh,Save the dump core
+nsstart.sh,Start the nsconfig
+nsstartpe.sh,Start the Netscaler kernel /PE
+nsstop.sh,Stops the Netscaler kernel
+nssync.sh,Start the sync daemon
+nstcpdump.sh,Start the traffic trace in pcap format
+nstrace.sh,Start the traffic trace in Netscaler format
+nsumon.sh,Start the scriptable monitoring daemon
+upgradeAppfwImports.sh,Config migration support for AppFW
+Showtechsupport.pl,Get the required files from the customer for debugging
