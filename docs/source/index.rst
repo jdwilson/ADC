@@ -20,3 +20,9 @@ Citrix ADC Consulting Notes
    :hidden:
 
    confs/base
+
+.. toctree::
+   :caption: Other
+   :hidden:
+
+   other/sites
