@@ -13,6 +13,7 @@ Citrix ADC Consulting Notes
 
    notes/cli
    notes/bash
+   notes/cmd
 
 .. toctree::
    :caption: Configs
