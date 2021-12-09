@@ -8,4 +8,9 @@ Useful Regex
 IPv4 Address
 
 .. parsed-literal::
-   \b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b 
+   (\b25[0-5]|\b2[0-4][0-9]|\b[01]?[0-9][0-9]?)(\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3} 
+
+URL with or without protocol
+
+.. parsed-literal::
+   /(https?:\/\/)?(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)/
