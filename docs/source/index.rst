@@ -20,6 +20,13 @@ Citrix ADC Consulting Notes
    :hidden:
 
    confs/base
+   
+.. toctree::
+   :caption: Automation
+   :hidden:
+
+   automation/ansible
+   automation/terraform
 
 .. toctree::
    :caption: Other
