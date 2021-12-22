@@ -6,13 +6,15 @@ Commands
 =============
 Read pcap directly from CLI
 
-.. parsed-literal::
-   tcpdump -qns 0 -A -r nstrace1.pcap
+.. raw:: html
+
+   <pre><code class="language-bash">tcpdump -qns 0 -A -r nstrace1.pcap</code></pre>
 
 Search for string in all ns.log files including zipped 
 
-.. parsed-literal::
-   zgrep -I cmd_executed ns.log* | more
+.. raw:: html
+
+   <pre><code class="language-bash">zgrep -I cmd_executed ns.log* | more</code></pre>
 
 Find the top 10 largest directories and files
 
@@ -20,15 +22,14 @@ Find the top 10 largest directories and files
 
    <pre><code class="language-bash">for i in G M K; do du -ah | grep [0-9]$i | sort -nr -k 1; done | head -n 11</code></pre>
 
-.. parsed-literal::
-   for i in G M K; do du -ah | grep [0-9]$i | sort -nr -k 1; done | head -n 11
-
 Generate random base64 string with OpenSSL
 
-.. parsed-literal::
-   openssl rand -base64 20
+.. raw:: html
 
-Remove passphrase from key 
+   <pre><code class="language-bash">openssl rand -base64 20</code></pre>
 
-.. parsed-literal::
-   openssl rsa -in privateKey.pem -out newPrivateKey.pem
+Remove passphrase from key
+
+.. raw:: html
+
+   <pre><code class="language-bash">openssl rsa -in privateKey.pem -out newPrivateKey.pem</code></pre>
