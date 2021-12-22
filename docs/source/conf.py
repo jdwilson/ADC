@@ -43,5 +43,5 @@ html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
     'prev_next_buttons_location' : 'None',
-    'html_show_sphinx' : 'False',
+    'show_sphinx' : 'False',
 }
