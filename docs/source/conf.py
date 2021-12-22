@@ -43,6 +43,5 @@ html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
     'prev_next_buttons_location' : 'None',
-    'html_show_sphinx' : False,
-    'body_max_width': '70%',
+    'html_show_sphinx' : 'False',
 }
