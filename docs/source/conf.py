@@ -41,5 +41,8 @@ html_js_files = [
 
 html_theme = 'sphinx_rtd_theme'
 
-# -- Options for EPUB output
-epub_show_urls = 'footnote'
+html_theme_options = {
+    'prev_next_buttons_location' : 'None',
+    'html_show_sphinx' : False,
+    'body_max_width': '70%',
+}
