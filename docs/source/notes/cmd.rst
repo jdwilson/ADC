@@ -7,5 +7,6 @@ Cmd Prompt
 
 Find MSS size to endpoint; add 28-bytes typically for MTU
 
-.. parsed-literal::
-   ping test.consonto.com -f -l 1472
+.. raw:: html
+
+   <pre><code class="language-batch">ping test.consonto.com -f -l 1472</code></pre>
