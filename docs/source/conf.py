@@ -26,6 +26,15 @@ intersphinx_mapping = {
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
+html_static_path = ['_static']
+
+html_css_files = [
+    'css/prism.css',
+]
+
+html_js_files = [
+    'js/prism.js',
+]
 
 # -- Options for HTML output
 
