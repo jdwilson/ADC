@@ -31,6 +31,13 @@ Test website for SSL security/configuration
 `Observatory <https://observatory.mozilla.org/>`_
 Test website against a comprehensive set of metrics
 
+`HTTP URL Encoding Reference <https://www.w3schools.com/tags/ref_urlencode.ASP/>`_
+HTTP Encoding
 
+Security
+****
+
+`OWASP Top 10 <https://owasp.org/Top10/>`_
+Top 10 Web App Security Issues for 2021
 
 
