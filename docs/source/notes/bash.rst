@@ -4,6 +4,12 @@ Shell
 
 Commands
 =============
+Show ADC kernel parameters
+
+.. raw:: html
+
+   <pre><code class="language-bash">sysctl -a netscaler | more</code></pre>
+
 Read pcap directly from CLI
 
 .. raw:: html
